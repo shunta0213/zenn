@@ -1,0 +1,8 @@
+title: "GoでDDD、TDD、Clean Architecture実践入門"
+summary: "Go-langを使って、DDD、TDD、Clean Architectureの実践的な入門を行う。"
+topics: [] # トピック（5つまで）
+published: false
+price: 0 # 有料の場合200〜5000
+chapters:
+  - intro
+  - domain
